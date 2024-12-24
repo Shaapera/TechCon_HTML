@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"name": "TechCon_HTML",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "TechCon_HTML"
+  }
+}
